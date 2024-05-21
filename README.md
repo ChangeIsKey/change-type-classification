@@ -1,4 +1,4 @@
-# Analyzing Semantic Change through Lexical Replacements
+# Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types
 This repository contains the code accompanying the paper titled "Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types"
 
 ## Paper Abstract
