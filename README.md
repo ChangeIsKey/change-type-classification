@@ -11,12 +11,13 @@ Snippet of the LSC Cause-Type-Definitions Benchmark:
 <b> Citation </b>
 
 ```
-@inproceedings{change_type_classification_cassotti_2024,
-  author    = {Pierluigi Cassotti and
-               Stefano De Pascale and
-               Nina Tahmasebi},
-  title     = {Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types},
-  year      = {2024},
+@misc{cassotti2024using,
+      title={Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types}, 
+      author={Pierluigi Cassotti and Stefano De Pascale and Nina Tahmasebi},
+      year={2024},
+      eprint={2406.03452},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
