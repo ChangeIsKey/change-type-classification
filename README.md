@@ -30,6 +30,9 @@ Snippet of the LSC Cause-Type-Definitions Benchmark:
 }
 ```
 
+## Model
+The model is available at [https://huggingface.co/ChangeIsKey/change-type-classifier](https://huggingface.co/ChangeIsKey/change-type-classifier)
+
 ### LSC-CTD Benchmark
 The LSC-CTD (Lexical Semantic Change Cause-Type-Definitions) Benchmark is available on Zenodo:
 [https://zenodo.org/records/11471318](https://zenodo.org/records/11471318)
